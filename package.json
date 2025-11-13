@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.11"
+  },
+  "name": "semifinal-project-101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davlatyar/semifinal-project-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Davlatyar/semifinal-project-101/issues"
+  },
+  "homepage": "https://github.com/Davlatyar/semifinal-project-101#readme"
+}

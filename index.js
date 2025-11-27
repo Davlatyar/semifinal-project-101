@@ -11,6 +11,10 @@ mongoose
 .then(()=>{
     console.log("DB is connected successfully...");
 })
+.then(() => {
+    console.log("Congratulations!!");
+    
+})
 .catch(()=> {
     console.log("Error: Db is not connected...");
 })
